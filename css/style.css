@@ -448,14 +448,15 @@ button:focus {
 }
 
 .map__outline {
-	-webkit-transition: fill 0.3s;
-	transition: fill 0.3s;
-	fill: #bbb;
+	-webkit-transition: fill 0.3s !important;
+	transition: fill 0.3s !important;
+	fill: #bbb !important;
+	opacity: .5;
 }
 
 .level:hover .map__outline,
 .level--current .map__outline {
-	fill: #a6a3a8;
+	fill: #d8d4db !important;
 }
 
 .map__tree {
