@@ -581,7 +581,7 @@ button:focus {
 }
 
 .content__desc {
-	text-align: left;
+	text-align: center;
 	margin: 7vmin 0 0 0;
 }
 
@@ -713,7 +713,7 @@ button:focus {
 
 .grouped-by-category [data-category='2']:first-child::before,
 .grouped-by-category :not([data-category='2']) + [data-category='2']::before {
-	content: 'Learn & Create';
+	content: 'Restrooms';
 	color: #6584c7;
 }
 
@@ -886,14 +886,17 @@ button:focus {
 .pin--1-9 { top: 8vmin; left: 51vmin; }
 
 /* Pins for floor 2 */
-.pin--2-1 { top: 7vmin; left: 22vmin; }
-.pin--2-2 { top: 39vmin; left: 5vmin; }
-.pin--2-3 { top: 21vmin; left: 84vmin; }
-.pin--2-4 { top: 39vmin; left: 53vmin; }
-.pin--2-5 { top: 14vmin; left: 50vmin; }
-.pin--2-6 { top: 60vmin; left: 15vmin; }
-.pin--2-7 { top: 34vmin; left: 37vmin; }
-.pin--2-8 { top: 52vmin; left: 74vmin; }
+.pin--2-1 { top: 48vmin; left: 55vmin; }
+.pin--2-2 { top: 30vmin; left: 18vmin; }
+.pin--2-3 { top: 47vmin; left: 75vmin; }
+.pin--2-4 { top: 39vmin; left: 58vmin; }
+.pin--2-5 { top: 48vmin; left: 47vmin; }
+.pin--2-6 { top: 50vmin; left: 60vmin; }
+.pin--2-7 { top: 39vmin; left: 51vmin; }
+.pin--2-8 { top: 39vmin; left: 65vmin; }
+.pin--2-9 { top: 55vmin; left: 59vmin; }
+.pin--2-10 { top: 55vmin; left: 47vmin; }
+.pin--2-11 { top: 57vmin; left: 53vmin; }
 
 /* Pins for floor 3 */
 .pin--3-1 { top: 17vmin; left: 15vmin; }
