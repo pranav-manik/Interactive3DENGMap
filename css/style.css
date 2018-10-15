@@ -456,7 +456,7 @@ button:focus {
 
 .level:hover .map__outline,
 .level--current .map__outline {
-	fill: #d8d4db !important;
+	fill: #a4a2a5 !important;
 }
 
 .map__tree {
