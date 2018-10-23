@@ -1,6 +1,6 @@
-# Interactive 3D Mall Map
+# Interactive 3D HackUMBC Map
 
-An interactive 3D mall map concept with a sidebar search and pin indicators for every level. 
+An interactive 3D map concept with a sidebar search and pin indicators for every level. 
 
 [Article on Codrops](http://tympanus.net/codrops/?p=26692)
 
